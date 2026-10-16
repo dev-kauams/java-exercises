@@ -7,17 +7,17 @@ Coleção organizada de exercícios e fundamentos de Java.
 
 ## Índice
 
-- [`BubbleSort`](projects/BubbleSort/) — [repositório original](https://github.com/dev-kauams/BubbleSort)
-- [`Calculadora-Simples`](projects/Calculadora-Simples/) — [repositório original](https://github.com/dev-kauams/Calculadora-Simples)
-- [`Consulta-ao-Sal-rio`](projects/Consulta-ao-Sal-rio/) — [repositório original](https://github.com/dev-kauams/Consulta-ao-Sal-rio)
-- [`DataeSigno`](projects/DataeSigno/) — [repositório original](https://github.com/dev-kauams/DataeSigno)
-- [`EstacaoDoAno`](projects/EstacaoDoAno/) — [repositório original](https://github.com/dev-kauams/EstacaoDoAno)
-- [`Farenheit`](projects/Farenheit/) — [repositório original](https://github.com/dev-kauams/Farenheit)
-- [`JurosCalculadora`](projects/JurosCalculadora/) — [repositório original](https://github.com/dev-kauams/JurosCalculadora)
-- [`Ol-Mundo`](projects/Ol-Mundo/) — [repositório original](https://github.com/dev-kauams/Ol-Mundo)
-- [`Projeto-Java`](projects/Projeto-Java/) — [repositório original](https://github.com/dev-kauams/Projeto-Java)
-- [`Teste-Aula`](projects/Teste-Aula/) — [repositório original](https://github.com/dev-kauams/Teste-Aula)
-- [`Validador-de-Triangulo`](projects/Validador-de-Triangulo/) — [repositório original](https://github.com/dev-kauams/Validador-de-Triangulo)
+- [`bubble-sort`](projects/bubble-sort/) — origem: [`BubbleSort`](https://github.com/dev-kauams/BubbleSort)
+- [`calculadora-simples`](projects/calculadora-simples/) — origem: [`Calculadora-Simples`](https://github.com/dev-kauams/Calculadora-Simples)
+- [`consulta-ao-salario`](projects/consulta-ao-salario/) — origem: [`Consulta-ao-Sal-rio`](https://github.com/dev-kauams/Consulta-ao-Sal-rio)
+- [`data-e-signo`](projects/data-e-signo/) — origem: [`DataeSigno`](https://github.com/dev-kauams/DataeSigno)
+- [`estacao-do-ano`](projects/estacao-do-ano/) — origem: [`EstacaoDoAno`](https://github.com/dev-kauams/EstacaoDoAno)
+- [`conversor-fahrenheit`](projects/conversor-fahrenheit/) — origem: [`Farenheit`](https://github.com/dev-kauams/Farenheit)
+- [`calculadora-de-juros`](projects/calculadora-de-juros/) — origem: [`JurosCalculadora`](https://github.com/dev-kauams/JurosCalculadora)
+- [`ola-mundo`](projects/ola-mundo/) — origem: [`Ol-Mundo`](https://github.com/dev-kauams/Ol-Mundo)
+- [`projeto-java`](projects/projeto-java/) — origem: [`Projeto-Java`](https://github.com/dev-kauams/Projeto-Java)
+- [`teste-de-aula`](projects/teste-de-aula/) — origem: [`Teste-Aula`](https://github.com/dev-kauams/Teste-Aula)
+- [`validador-de-triangulo`](projects/validador-de-triangulo/) — origem: [`Validador-de-Triangulo`](https://github.com/dev-kauams/Validador-de-Triangulo)
 
 ## Como usar
 
